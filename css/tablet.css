@@ -1,0 +1,37 @@
+@media (max-width: 992px) {
+  /* Navbar */
+  .avatar {
+    display: none;
+  }
+
+  .start {
+    padding-right: 0;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  /* #job-info .container {
+    grid-template-columns: 50% 50%;
+  }
+
+  .grid-2 {
+    margin-right: 30px;
+  } */
+
+  /* Phan Chung chi- giai thuong */
+
+  #certificate .container {
+    align-content: center;
+  }
+
+  .certificate-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-bottom: 10px;
+    border-bottom: 1px ridge #d6c08d;
+  }
+
+  /* Phan  */
+}

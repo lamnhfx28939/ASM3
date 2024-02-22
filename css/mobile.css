@@ -1,0 +1,38 @@
+@media (max-width: 576px) {
+  /* Navbar */
+
+  #nav-bar .container {
+    display: block;
+  }
+
+  /* #about .container {
+    grid-template-columns: 1fr;
+  }
+
+  #personal-info {
+    margin-top: 20px;
+  }
+
+  #job-info .container {
+    grid-template-columns: 1fr;
+  } */
+
+  /* Phan Chung chi - giai thuong */
+  #certificate .container {
+    grid-template-columns: 1fr;
+  }
+
+  .border-left {
+    display: none;
+  }
+
+  /* Phan Du an */
+  #project .container {
+    grid-template-columns: 1fr;
+  }
+
+  .border-top {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
